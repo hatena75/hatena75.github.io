@@ -26,7 +26,7 @@ experience:
     date_start: '2020-04-01'
     date_end: ''
     description: |2-
-      * セキュリティキャンプ2020参加(Dトラック)
+      * ★セキュリティキャンプ2020参加(Dトラック)
       * SECCON Beginners CTF 2020参加
       * ゲーム制作
 
@@ -34,7 +34,7 @@ experience:
     date_start: '2019-04-01'
     date_end: '2020-03-31'
     description: |2-
-      * Campus OJT 受講(春、秋)
+      * ★Campus OJT 受講(春、秋)
       * NECインターンシップ参加(セキュリティ、2週間)
       * コロプラインターンシップ参加(ゲーム制作、3日間)
       * ゲーム制作(AmusementCreators)
@@ -60,6 +60,6 @@ experience:
     description: |2-
       * 基本情報技術者(2016)
       * 応用情報技術者(2016)
-      * 情報セキュリティスペシャリスト(現:情報処理安全確保支援士)合格(2017)
+      * ★情報セキュリティスペシャリスト(現:情報処理安全確保支援士)合格(2017)
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: FACE ICON
+title: ★FACE ICON
 summary: リアクションを頼りに誰がAIかを当てるゲーム
 tags:
 - Web
