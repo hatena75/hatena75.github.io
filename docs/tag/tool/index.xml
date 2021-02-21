@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool | hatena75 Portfolio</title>
+    <link>/tag/tool/</link>
+      <atom:link href="/tag/tool/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tool</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tool</title>
+      <link>/tag/tool/</link>
+    </image>
+    
+    <item>
+      <title>LoginBonus</title>
+      <link>/project/loginbonus/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/loginbonus/</guid>
+      <description>&lt;p&gt;サイト：&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=hatena75.loginbonus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LoginBonus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;レポジトリ：&lt;a href=&#34;https://github.com/hatena75/LoginBonus-VScode-Extention-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LoginBonusは、VScodeを使用した連続日数と合計日数を表示するVScodeの拡張機能です。個人開発で制作しました。VScodeの拡張機能の開発をやってみたいという興味と、毎日コードを書く習慣を付けるために役立つものが欲しいという思いが開発の動機です。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

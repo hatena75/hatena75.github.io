@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | hatena75 Portfolio</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>LoginBonus</title>
+      <link>/project/loginbonus/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/loginbonus/</guid>
+      <description>&lt;p&gt;サイト：&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=hatena75.loginbonus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LoginBonus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;レポジトリ：&lt;a href=&#34;https://github.com/hatena75/LoginBonus-VScode-Extention-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LoginBonusは、VScodeを使用した連続日数と合計日数を表示するVScodeの拡張機能です。個人開発で制作しました。VScodeの拡張機能の開発をやってみたいという興味と、毎日コードを書く習慣を付けるために役立つものが欲しいという思いが開発の動機です。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>セルフ壁ドンデバイス</title>
+      <link>/project/kabedon/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/kabedon/</guid>
+      <description>&lt;p&gt;セルフ壁ドンデバイスは、夜中などについうるさくしてしまった際に、動きと音で知らせてくれるデバイスです。拳の付いている棒を動かして疑似的に壁ドンを行うことで、人から壁ドンされる前に面白おかしく自制できるというユーモアを基に制作しました。&lt;/p&gt;
+&lt;p&gt;これは筑波大学CampusOJTの秋学期の成果物として制作したもので、3人で開発を行いました。私は主にESP32でのプログラミングを担当しました。苦労した点としてはスピーカーとモーターの出力制御が挙げられますが、最終的には切り替えて動作させることができました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>★Elemental Speed Neo</title>
+      <link>/project/elementalspeed/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/elementalspeed/</guid>
+      <description>&lt;p&gt;AmusementCreatorsゲーム集の内の一つとして、C97にてα版頒布。&lt;br&gt;
+2020年度U22プログラミングコンテストにてβ版提出。&lt;br&gt;
+現在開発続行中&lt;/p&gt;
+&lt;p&gt;Elemental Speed Neoは、スピードを基にしたターン性カードゲームです。Unity製の2Dゲームであり、CPU対戦の他、Photon Engineの利用によるオンライン対戦を実装しています。開発は個人で行っています。&lt;/p&gt;
+&lt;p&gt;対戦は2人で行われ、それぞれがHPを持ちます。相手のHPを0にすれば勝ちとなります。カードには通常の数字の他に、属性と攻撃力があり、場に出すことで相手にダメージを与えることができます。また、属性には相性があり、場のカードに対して相性が良ければダメージが2倍になります。カードを場に出せるのはお互いに限られたタイミングであり、これは交互に切り替わります(ターン制)。自分のターンにはカードを場に出す他に、手札を入れ替えるシャッフルとキャラクター毎に異なった効果のスキルを使用することができます。&lt;/p&gt;
+&lt;p&gt;現在はオンライン対戦時の通信内容を最適化するためのリファクタリングに取り組んでいます。&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;image1.png&#34; width=&#34;400px&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;image2.png&#34; width=&#34;400px&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>CrystalKaiser</title>
+      <link>/project/stealthcolopl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/stealthcolopl/</guid>
+      <description>&lt;p&gt;CrystalKaiserはUnity製のステルスゲームです。3D見下ろし型の2Dゲームで、敵に見つからないようにマップ上にあるクリスタルを取って戻るとクリアとなります。このゲームはコロプラインターンシップにて制作したものであり、開発は3人チームで行いました。私は敵の捜索プログラムとBGMのフェードイン/アウトを主に担当しました。特に捜索では、透明なボックスの当たり判定とレイを用いることで、見つけたら追跡して見失ったらそれを止めるような挙動の実装に成功しました。&lt;/p&gt;
+&lt;p&gt;※著作権の都合上、画像等は省略しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>★FACE ICON</title>
+      <link>/project/faceicon/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/faceicon/</guid>
+      <description>&lt;p&gt;サイト：&lt;a href=&#34;http://faceicon.herokuapp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACE ICON&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FACE ICONは、Socket.ioを利用して作成したWebゲームアプリです。2~5人で遊ぶことができ、それにプラスでAIが1人参加します。ゲームが始まると、お題が出題され、プレイヤーはアイコンでそれに対するリアクションを示します。これを5回行い、それまでのリアクションを基に誰がAIかを当てるというゲームです。&lt;/p&gt;
+&lt;p&gt;これは筑波大学CampusOJTの春学期の成果物として制作したもので、4人で開発を行いました。私は主にフロントエンドとデプロイを担当しました。主に使用した技術は、Vue.jsとBootStrapです。Vue.jsのコンポーネント機能を活かすことで、比較的容易にPC用とスマホ用のデザインを調整することに成功しました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ever Lasting HEISEI ～平成よ永遠に～</title>
+      <link>/project/everlastingheisei/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/everlastingheisei/</guid>
+      <description>&lt;p&gt;AmusementCreatorsゲーム集の内の一つとして、C95にて頒布。&lt;/p&gt;
+&lt;p&gt;Ever Lasting HEISEI ～平成よ永遠に～は、平成最後のコミケにちなんだネタシューティングゲームです。エンドレスのスコアアタックシューティングですが、スコアは途中でリタイアしなければ0になる点や、スコアに応じたコメントを表示する点など、単調にならずに楽しめるような工夫をしています。一番のこだわりはもちろん、ネタをどれだけゲームに落とし込んだかという所ですが、それを説明するのは苦しいのでここでは省略します。&lt;/p&gt;
+&lt;p&gt;このゲームはAmusementCreatorsで開発されたAltseedというコードベースのゲームエンジンを用いてC#で制作しました。&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;image1.png&#34; width=&#34;400px&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;image2.png&#34; width=&#34;400px&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>電話番号検索システム</title>
+      <link>/project/telsearch/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/telsearch/</guid>
+      <description>&lt;p&gt;電話番号検索システムは、名前や役職の情報から電話番号を検索するためのWebページです。開発と運用は複数人で行い、私は主にフロントエンドのプログラム部分とデータの加工を担当しました。フロントエンドの開発にはVue.jsを使用しました。規模や情報は有限であったため、データはjsonで管理していました。&lt;/p&gt;
+&lt;p&gt;このシステムは学園祭実行委員会の内部で用いられました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
