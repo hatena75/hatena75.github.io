@@ -23,5 +23,15 @@
 </description>
     </item>
     
+    <item>
+      <title>手品用カード当てアプリ</title>
+      <link>/project/magic/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/magic/</guid>
+      <description>&lt;p&gt;このアプリは、音声認識で認識した情報を基に、スート(♠等)と数字を表示するAndroidアプリです。&lt;/p&gt;
+&lt;p&gt;自分が手品で利用したかったというのが第一ですが、AndroidStudio利用の習作も兼ねています。&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
