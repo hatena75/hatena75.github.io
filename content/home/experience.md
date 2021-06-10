@@ -22,9 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 修士1年
+    date_start: '2021-04-01'
+    date_end: ''
+    description: |2-
+      * ★SecHack365参加(思索駆動コース)
+      * SECCON Beginners CTF 2021参加
+      * ゲーム制作
+
   - title: 学部4年
     date_start: '2020-04-01'
-    date_end: ''
+    date_end: '2021-03-31'
     description: |2-
       * ★セキュリティキャンプ2020参加(Dトラック)
       * SECCON Beginners CTF 2020参加
