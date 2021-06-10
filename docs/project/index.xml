@@ -50,10 +50,14 @@
       <guid>/project/elementalspeed/</guid>
       <description>&lt;p&gt;AmusementCreatorsゲーム集の内の一つとして、C97にてα版頒布。&lt;br&gt;
 2020年度U22プログラミングコンテストにてβ版提出。&lt;br&gt;
+2021/5/29 ver 1.0リリース&lt;br&gt;
 現在開発続行中&lt;/p&gt;
+&lt;p&gt;ver 1.0 &lt;a href=&#34;https://drive.google.com/drive/folders/1LQrdMqFAlyX8FZ150sgeWwUvTzwKBx4Y?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Elemental Speed Neoは、スピードを基にしたターン性カードゲームです。Unity製の2Dゲームであり、CPU対戦の他、Photon Engineの利用によるオンライン対戦を実装しています。開発は個人で行っています。&lt;/p&gt;
 &lt;p&gt;対戦は2人で行われ、それぞれがHPを持ちます。相手のHPを0にすれば勝ちとなります。カードには通常の数字の他に、属性と攻撃力があり、場に出すことで相手にダメージを与えることができます。また、属性には相性があり、場のカードに対して相性が良ければダメージが2倍になります。カードを場に出せるのはお互いに限られたタイミングであり、これは交互に切り替わります(ターン制)。自分のターンにはカードを場に出す他に、手札を入れ替えるシャッフルとキャラクター毎に異なった効果のスキルを使用することができます。&lt;/p&gt;
-&lt;p&gt;現在はオンライン対戦時の通信内容を最適化するためのリファクタリングに取り組んでいます。&lt;/p&gt;
+&lt;p&gt;α版：CPU対戦の実装&lt;br&gt;
+β版：オンライン対戦機能、キャラクターとスキルを新たに実装&lt;br&gt;
+ver 1.0：オンライン対戦時の通信情報の変更(リファクタリング兼バグフィックス)&lt;/p&gt;
 &lt;table&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;img src=&#34;image1.png&#34; width=&#34;400px&#34;&gt;&lt;/td&gt;
