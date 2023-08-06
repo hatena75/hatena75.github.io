@@ -6,11 +6,11 @@ title: hatena75
 superuser: true
 
 # Role/position/tagline
-role: College student
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tsukuba University
+- name: University of Tsukuba 
 # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -19,6 +19,7 @@ bio: I'm interested in computer security and various computer technology.
 # Interests to show in About widget
 interests:
 - Computer Security
+- Trusted Execution Environment (TEE)
 - Game
 - Various Computer Technology (Web, OS, and so on)
 

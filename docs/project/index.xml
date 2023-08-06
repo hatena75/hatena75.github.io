@@ -5,12 +5,25 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Search Supporter</title>
+      <link>/project/sechack365/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/project/sechack365/</guid>
+      <description>&lt;p&gt;参考：&lt;a href=&#34;https://sechack365.nict.go.jp/achievement/2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SecHack365:2021 作品一覧&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SecHack365の成果物として制作。&lt;/p&gt;
+&lt;p&gt;『うまく検索できずに欲しい情報が得られない&amp;hellip;。』Search Supporterはそんな悩みを解決するために考案、開発しました。うまく検索できない原因を5つに分類し、それぞれの問題を解決する3つの機能をWebアプリとして提供します。(Herokuの有料化に伴い現在アプリは非公開)&lt;/p&gt;
+&lt;p&gt;当時はまだありませんでしたが、現在はChatGPTやBing AIがこれらの悩みを解決する有力なツールになっていて、嬉しい反面ちょっと悔しい気分です。&lt;/p&gt;
+&lt;iframe src=&#34;sechack365_2021_c6.pdf&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>LoginBonus</title>
